@@ -1,6 +1,8 @@
 
 # WDP Projekt Zespołowy
 
+[Live demo](https://wdp-2306-01.netlify.app/#/)
+
 ## Inicjacja projektu
 
 Po sklonowaniu projektu, zainstaluj wymagane paczki komendą `yarn install` (lub `npm install`).
